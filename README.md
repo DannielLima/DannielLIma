@@ -7,11 +7,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a website**
+ 🔭 I’m currently **open to work**
  
  🌱 I’m currently learning **React Native, Node.js, Ui Design**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
 
@@ -45,10 +43,10 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div>
-  <img width=390 align="left" src="https://github-readme-stats.vercel.app/api?username=DannielLima&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannielLima&hide=HTML&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="top langs" />
+
+<div align="center" dir="auto" style="display: flex; flex-direction: row;">
+<img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=DannielLima&count_private=true&show_icons=true&theme=radical" alt="readme stats" />
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannielLima&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="top langs" />
 </div>
 
 <br/><br/>
