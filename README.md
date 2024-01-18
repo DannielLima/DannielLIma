@@ -9,7 +9,7 @@
  
  🔭 I’m currently **open to work**
  
- 🌱 I’m currently learning **React Native, Node.js, Ui Design**
+ 🌱 I’m currently learning **Go, React, Next.js**
 
  </div>
 
