@@ -3,13 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrainsMono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Danniel+Lima!;" />
 </h1>
 
-<h3 align="center">A passionate web developer from Brazil 🇧🇷</h3>
+<h3 align="center">A passionate developer from Brazil 🇧🇷</h3>
 
 <div align="center">
  
  🔭 I’m currently **open to work**
  
- 🌱 I’m currently learning **Go, React, Next.js**
+ 🌱 I’m currently learning **Python, React, Next.js**
 
  </div>
 
