@@ -9,7 +9,7 @@
  
  🔭 I’m currently **open to work**
  
- 🌱 I’m currently learning **Python, React, Next.js**
+ 🌱 I’m currently learning **C, Python, React**
 
  </div>
 
