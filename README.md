@@ -23,8 +23,8 @@
  <h2 align="center">🧰 Languages and Frameworks 🧰</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,nextjs,typescript" />
-    <img src="https://skillicons.dev/icons?i=nodejs,go,python,flutter,git" /><br>
+    <img src="https://skillicons.dev/icons?i=c,python,js,html,css,react,tailwind,bootstrap,nextjs,typescript" />
+    <img src="https://skillicons.dev/icons?i=nodejs,go,git" /><br>
 </div>
  
 <br/>
