@@ -9,7 +9,7 @@
  
  🔭 I’m currently **open to work**
  
- 🌱 I’m currently learning **C, Python, React**
+ 🌱 I’m currently learning **Kotlin, Java, React**
 
  </div>
 
@@ -23,8 +23,8 @@
  <h2 align="center">🧰 Languages and Frameworks 🧰</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,js,html,css,react,tailwind,bootstrap,nextjs,typescript" />
-    <img src="https://skillicons.dev/icons?i=nodejs,go,git" /><br>
+    <img src="https://skillicons.dev/icons?i=c,kotlin,java,js,html,css,react,tailwind,bootstrap,nextjs,typescript" />
+    <img src="https://skillicons.dev/icons?i=nodejs,git" /><br>
 </div>
  
 <br/>
