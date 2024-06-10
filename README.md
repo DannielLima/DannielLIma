@@ -9,7 +9,7 @@
  
  🔭 I’m currently **open to work**
  
- 🌱 I’m currently learning **C#** and **Svelte**
+ 🌱 I’m currently learning **C#** and **PHP**
 
  </div>
 
