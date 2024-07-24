@@ -9,7 +9,7 @@
  
  🔭 I’m currently **open to work**
  
- 🌱 I’m currently learning **React** and **PHP**
+ 🌱 I’m currently learning **React** and **TypeScript**
 
  </div>
 
@@ -23,7 +23,7 @@
  <h2 align="center">🧰 Languages and Frameworks 🧰</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,js,html,css,tailwind,bootstrap,typescript" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,php,js,html,css,bootstrap" />
     <img src="https://skillicons.dev/icons?i=mysql,nodejs,git" /><br>
 </div>
  
