@@ -14,7 +14,7 @@
  </div>
 
 <div align="center">
-  <a href = "mailto:karlosdanniellima@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"></a>
+  <a href = "mailto:danniellimadev@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"></a>
   <a href="https://br.linkedin.com/in/danniel-lima-771635236" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
