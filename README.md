@@ -23,7 +23,7 @@
  <h2 align="center">🧰 Languages and Frameworks 🧰</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,php,js,html,css,bootstrap,mysql,nodejs,git" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,php,js,html,css,bootstrap,mysql,nodejs,figma" />
 </div>
  
 <br/>
