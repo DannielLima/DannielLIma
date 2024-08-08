@@ -10,7 +10,7 @@
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square&logo=linkedin&labelColor=000000" alt="Open to Work Badge">
-  <img src="https://img.shields.io/badge/Learning-React%20%7C%20TypeScript-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=000000" alt="Learning Badge">
+  <img src="https://img.shields.io/badge/Learning-Vue 3%20%7C%20TypeScript-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=000000" alt="Learning Badge">
 </div>
 
 <div align="center" style="margin-top: 20px;">
@@ -27,7 +27,7 @@
 <h2 align="center">🧰 Tech Stack & Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,php,js,html,css,bootstrap,sass,figma" alt="Tech Stack" style="padding: 10px; background: linear-gradient(120deg, #f093fb 0%, #f5576c 100%); border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs,vue,typescript,tailwind,php,js,html,css,bootstrap,sass,figma" alt="Tech Stack" style="padding: 10px; background: linear-gradient(120deg, #f093fb 0%, #f5576c 100%); border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);" />
 </div>
 
 <hr style="border: 1px solid #e6e6e6;"/>
